@@ -1,0 +1,1 @@
+Write a greet function that greets the user passed as the argument. However, a user may not be passed also, so it could be null.
