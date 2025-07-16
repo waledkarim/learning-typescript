@@ -1,0 +1,1 @@
+Write code to demonstrate contextual typing. Hint: declare an array with string values and use forEach to do something with each value.

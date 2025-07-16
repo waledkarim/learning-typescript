@@ -1,0 +1,1 @@
+create a function textOrNumOrBool that takes either string or number or bool value and prints it in the console.
