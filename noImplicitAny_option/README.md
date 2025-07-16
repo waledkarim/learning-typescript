@@ -1,0 +1,1 @@
+Write a simple example code to demonstrate a variable implicitly being inferred as "any"
