@@ -1,0 +1,1 @@
+The hello.ts file has an error. Use the tsc command-line tool and pass an option that will prevent outputting the .js file if there are errors.
