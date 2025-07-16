@@ -1,0 +1,1 @@
+Compile index.ts to es6
