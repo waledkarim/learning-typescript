@@ -1,1 +1,1 @@
-Compile index.ts to es6
+Compile index.ts to es5 and es6
